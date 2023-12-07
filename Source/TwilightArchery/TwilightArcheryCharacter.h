@@ -3,7 +3,7 @@
 #include "CoreMinimal.h"
 #include "Curves/CurveFloat.h"
 #include "BowComponent.h"
-#include "Camera/CameraShake.h"
+#include "MatineeCameraShake.h"
 #include "GameFramework/Character.h"
 #include "Components/BoxComponent.h"
 #include "Components/StaticMeshComponent.h"

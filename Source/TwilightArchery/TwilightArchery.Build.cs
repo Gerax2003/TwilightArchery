@@ -8,7 +8,7 @@ public class TwilightArchery : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Niagara", "AIModule", "GameplayTasks" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Niagara", "AIModule", "GameplayTasks", "GameplayCameras" });
 
 		//PublicIncludePaths.AddRange(new string[] { Target.Combine(ModuleDirectory, "Niagara") });
 	}
