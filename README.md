@@ -1,5 +1,9 @@
 # **Twilight Archery**
 
+## Context
+
+This is a school project I made during my second year, along with 3 other students. This project might not have the best coding practices as we were not as experienced as today, and I currently have no interest in cleaning, maintaining or improving it. It is only here to showcase my knowledge and because I enjoyed this project. The rest of this ReadMe has not been modified since the project's end, and thus, might not be up to date at some points.  
+
 ## **Summary**
 - [Description](##Description)
 - [Targets](##Targets)
